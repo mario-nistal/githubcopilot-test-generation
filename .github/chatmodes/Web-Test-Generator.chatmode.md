@@ -1,7 +1,7 @@
 ---
 description: 'create test cases for the workitem 1306802 based on its acceptance criteria'
 tools: [ 'ado-mcp']
-model: 'gpt-4o'
+model: Claude Sonnet 4
 ---
 # Instructions
 
