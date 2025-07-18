@@ -69,7 +69,3 @@ Feel free to use, modify, and spread the word!
 
 Let GitHub Copilot help you **test smarter, not harder.**
 🔥 Give it a try today and watch your test cases write themselves.
-
----
-
-Let me know if you want this turned into a landing page or internal documentation format!
