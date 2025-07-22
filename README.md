@@ -34,7 +34,9 @@ GitHubCopilot-Test-Generation is a lightweight yet powerful tool designed to **a
 2. Make sure you select the `Agent` mode.
 3. For a better output, we recommend using `Claude Sonnet 4` model
 4. Click on **"Add Context"**.
-5. Under **Instructions**, choose `azure_testcase_format`.
+5. Under **Instructions**, select one of the following based on your preferred format:
+   * `azure_testcase_format_steps.instruction.md` – for regular test cases with test steps and expected results.
+   * `azure_testcase_format_gherkin.instructions.md` – for Gherkin-style test cases using the Given-When-Then format.
 6. Add a second context:
    * Choose `api-test-generation`, `desktop-test-generation`, or `web-test-generation`.
 7. Enter your prompt:
