@@ -6,27 +6,28 @@ This document explains how to clone a repo
 
 ![./guide/GitHub_CloneRepoLink.png](./guide/GitHub_CloneRepoLink.png)
 
-3. Navigate to VS Code and click on the `Clone Git Repository...` link.
+2. Navigate to VS Code and click on the `Clone Git Repository...` link.
  
 ![./guide/VSCode_CloneRepoLink.png](./guide/VSCode_CloneRepoLink.png)
 
-5. Paste the Github Url in the search bar.
+3. Paste the Github Url in the search bar.
    
 ![./guide/VSCode_RepoAddressBar.png](./guide/VSCode_RepoAddressBar.png)
 
-7. Click the `Clone from URL`.
+4. Click the `Clone from URL`.
    
 ![./guide/VSCode_ClickCloneFromUrl.png](./guideVSCode_ClickCloneFromUrl.png)
 
-9. Select the destination folder you'd like to use, Ussually under `[UserProfile] > source > repos` folder.
+5. Select the destination folder you'd like to use, Ussually under `[UserProfile] > source > repos` folder.
 
 ![./guide/VSCode_DestinationFolder.png](./guideVSCode_DestinationFolder.png)
 
-11. Wait until the Open Repo dialog appears, then click open.
+6. Wait until the Open Repo dialog appears, then click open.
 
 ![./guide/VSCode_OpenWindow.png](./guide/VSCode_OpenWindow.png)
 
-13. You should be able to navigate through your files if successful.
+7. You should be able to navigate through your files if successful.
+
 ![./guide/VSCode_RepoFiles.png](./guide/VSCode_RepoFiles.png)
 
 # Others
@@ -35,11 +36,11 @@ This document explains how to clone a repo
     
 ![./guide/VSCode_RevealInFileExplorer.png](./guide/VSCode_RevealInFileExplorer.png)
 
-10. You can reopen your local repo anytime as needed, no need to clone the repo again.
+9. You can reopen your local repo anytime as needed, no need to clone the repo again.
     
 ![./guide/VSCode_RevealInFileExplorer.png](./guide/VSCode_RevealInFileExplorer.png)
 
-12. Just open the local repo folder again from `File` menu.
+10. Just open the local repo folder again from `File` menu.
     
 ![./guide/VSCode_OpenFolder.png](./guide/VSCode_OpenFolder.png)
 
