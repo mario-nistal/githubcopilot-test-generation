@@ -2,6 +2,8 @@
 
 This document explains how to clone a repo
 
+# Steps
+
 1. Copy the url of the GitHub Repository you would like to clone.
 
 ![./guide/GitHub_CloneRepoLink.png](./guide/GitHub_CloneRepoLink.png)
