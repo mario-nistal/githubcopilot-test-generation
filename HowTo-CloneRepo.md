@@ -3,11 +3,11 @@
 This document explains how to clone a repo
 
 1. Copy the url of the GitHub Repository you would like to clone.
-2. 
+
 ![./guide/GitHub_CloneRepoLink.png](./guide/GitHub_CloneRepoLink.png)
 
 3. Navigate to VS Code and click on the `Clone Git Repository...` link.
-4. 
+ 
 ![./guide/VSCode_CloneRepoLink.png](./guide/VSCode_CloneRepoLink.png)
 
 5. Paste the Github Url in the search bar.
