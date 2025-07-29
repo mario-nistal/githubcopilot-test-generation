@@ -16,11 +16,11 @@ This document explains how to clone a repo
 
 4. Click the `Clone from URL`.
    
-![./guide/VSCode_ClickCloneFromUrl.png](./guideVSCode_ClickCloneFromUrl.png)
+![./guide/VSCode_ClickCloneFromUrl.png](./guide/VSCode_ClickCloneFromUrl.png)
 
 5. Select the destination folder you'd like to use, Ussually under `[UserProfile] > source > repos` folder.
 
-![./guide/VSCode_DestinationFolder.png](./guideVSCode_DestinationFolder.png)
+![./guide/VSCode_DestinationFolder.png](./guide/VSCode_DestinationFolder.png)
 
 6. Wait until the Open Repo dialog appears, then click open.
 
