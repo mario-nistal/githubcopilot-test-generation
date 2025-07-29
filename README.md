@@ -20,7 +20,7 @@ GitHubCopilot-Test-Generation is a lightweight yet powerful tool designed to **a
 ## ⚡ Getting Started
 
 1. **Clone this repository**
-  * You may refer to [How to Clone a Github Repository with VS Code (Example)](https://www.jcchouinard.com/git-clone-github-repository-vscode/) for guidance.
+   * You may refer to [How to Clone a Github Repository with VS Code (Example)](https://www.jcchouinard.com/git-clone-github-repository-vscode/) for guidance.
 
 2. **Install the essentials**
 
