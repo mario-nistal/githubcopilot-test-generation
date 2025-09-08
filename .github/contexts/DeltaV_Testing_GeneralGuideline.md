@@ -132,7 +132,7 @@ Studio.
 
 #### **DeltaV Historians**
 
-* Validate that DeltaV Historian can collect and store process data.
+* Validate that DeltaV Historians can collect and store process data.
 * Validate that DeltaV Historian can retrieve and display historical data accurately of different data types.
 * Validated all historian related functionality such as backup, restore, and data export on all supported DeltaV Historian models: DVCH, ACH, DVCH Elite and Enterprise PI Historian.
 
