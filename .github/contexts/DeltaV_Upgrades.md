@@ -34,7 +34,7 @@ And <additional expected outcome>
 
 * For each acceptance criteria and sub-criteria, write **at least one** test case.
 
-### **Scenarios to Cover for DeltaV Feature**
+### **Scenarios to Cover for DeltaV Features**
 
 #### **DeltaV Login Checks**
 
@@ -72,7 +72,7 @@ Studio.
 * Validate that user can create and save graphics for operator interface on DeltaV Operate Configure.
 * Validate that user can bulk-configure DST and IO configuration in IO Configuration Tool.
 * Validate that user can perform backup, restore and clean-up of DeltaV System Database using Database Administration Tool.
-
+  
 #### **DeltaV Operations**
 
 * Validate user can operate the process on DeltaV Operate Run and DeltaV Live.
